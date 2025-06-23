@@ -5,8 +5,6 @@ Place the folder in your FiveM resources directory.
 
 Add start superstar-load to your server.cfg.
 
-Add loadscreen superstar-load to your server.cfg.
-
 Restart your server.
 
 Customization
